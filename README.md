@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @potatoednacho
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning OSINT
+- 📫 How to reach me: potatoednacho@protonmail.com
